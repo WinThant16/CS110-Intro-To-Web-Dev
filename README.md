@@ -1,4 +1,4 @@
-# CS 110 (Intro to Web Deve)
+# CS 110 (Intro to Web Dev)
 
 ## Labs
 
